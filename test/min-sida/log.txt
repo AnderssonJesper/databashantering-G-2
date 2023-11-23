@@ -1,0 +1,18 @@
+2023-11-03 08:10Kunde med ID 43 raderades.
+2023-11-03 08:10Kunde med ID 43 raderades.
+2023-11-03 08:11Kunde med ID 1 raderades.
+2023-11-03 08:11Kunde med ID 1 raderades.
+2023-11-03 12:55Kunde med ID 43 raderades.
+2023-11-03 12:55Kunde med ID 42 raderades.
+2023-11-03 12:56Kunde med ID 41 raderades.
+2023-11-03 13:07Kunden med ID 43 raderades.
+2023-11-03 13:09Kunden med ID 43 raderades.
+2023-11-03 13:09Kunden med ID 42 raderades.
+2023-11-03 13:24Kund med ID 41 raderades.
+2023-11-03 13:26Kund med ID 40 raderades.
+2023-11-03 13: 31Kund med ID 39 raderades.
+2023-11-03 13:32 Kund med ID 38 raderades.
+2023-11-03 13:35 Order med ID 3 uppdaterades till ett nytt totalbelopp: 2000 kr.
+2023-11-07 08:09 Kund med ID 36 raderades.
+2023-11-07 08:09 Kund med ID 37 raderades.
+2023-11-07 08:56 Kund med ID 37 raderades.
